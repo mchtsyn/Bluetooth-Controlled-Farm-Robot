@@ -1,4 +1,4 @@
-![alt text](https://github.com/mchtsyn/Bluetooth-Controlled-Farm-Robot/blob/main/res/Car_photos.jpg)
+![alt text](https://github.com/mchtsyn/Bluetooth-Controlled-Farm-Robot/blob/main/res/car.jpg)
 
 
 The Bluetooth controlled farm robot has following features:
