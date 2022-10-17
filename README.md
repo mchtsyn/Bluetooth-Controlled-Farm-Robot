@@ -1,3 +1,5 @@
+![alt text](https://github.com/mchtsyn/Bluetooth-Controlled-Farm-Robot/blob/main/res/Car_photos.jpg)
+
 
 The Bluetooth controlled farm robot has following features:
 1) It can be controlled remotely with a mobile app via Bluetooth.
